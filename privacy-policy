@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1 {
+      color: #cc3366;
+    }
+    code {
+      background: #f4f4f4;
+      padding: 2px 4px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last Updated:</strong> April 6, 2025</p>
+
+  <p>This application is designed for educational purposes and interaction with neural networks. It may also be used to automate Pinterest post publishing using the official Pinterest API.</p>
+
+  <p>We do <strong>not</strong> collect, store, or share any personal information from users.</p>
+
+  <p>Any data accessed through Pinterest’s API is used solely to automate content publication on behalf of the user, with their explicit permission.</p>
+
+  <p>We comply with Pinterest’s Developer Terms and respect user privacy and data handling policies.</p>
+
+  <p>If you have any questions or concerns, please contact us at: <a href="mailto:your@email.com">your@email.com</a></p>
+</body>
+</html>
